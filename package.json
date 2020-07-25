@@ -1,0 +1,20 @@
+{
+  "name": "miniql-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@miniql/csv": "0.0.2",
+    "datakit": "^1.0.3",
+    "miniql": "0.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
