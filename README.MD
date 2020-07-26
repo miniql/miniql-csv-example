@@ -1,6 +1,6 @@
 # MiniQL - CSV files example
 
-A first example of MiniQL - the tiny JSON-based query language inspired by GraphQL.
+An example of MiniQL - the tiny JSON-based query language inspired by GraphQL.
 
 This example shows how to use [miniql](https://www.npmjs.com/package/miniql) and [@miniql/csv](https://www.npmjs.com/package/@miniql/csv) to run queries against a set of CSV files.
 
