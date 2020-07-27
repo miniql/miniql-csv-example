@@ -37,15 +37,15 @@ async function main() {
     // Check out each function for example queries.
     //
 
-    example_query_get_all_species(queryResolver);
+    await example_query_get_all_species(queryResolver);
 
-    example_query_get_one_species(queryResolver);
+    await example_query_get_one_species(queryResolver);
 
-    example_query_get_one_species_with_nested_entity_lookup(queryResolver);
+    await example_query_get_one_species_with_nested_entity_lookup(queryResolver);
 
-    example_query_get_all_species_with_nested_entity_lookup(queryResolver);
+    await example_query_get_all_species_with_nested_entity_lookup(queryResolver);
 
-    example_query_get_all_species_with_nested_entity_lookup(queryResolver);
+    await example_query_get_all_species_with_nested_entity_lookup(queryResolver);
 }
 
 //
