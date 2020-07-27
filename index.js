@@ -45,7 +45,7 @@ async function main() {
 
     await example_query_get_all_species_with_nested_entity_lookup(queryResolver);
 
-    await example_query_get_all_species_with_nested_entity_lookup(queryResolver);
+    await example_query_get_all_planets_with_nested_entity_lookup(queryResolver);
 }
 
 //
@@ -133,7 +133,7 @@ async function example_query_get_all_species_with_nested_entity_lookup(queryReso
 //
 // Example query to get all planets with nested species lookup.
 //
-async function example_query_get_all_species_with_nested_entity_lookup(queryResolver) {
+async function example_query_get_all_planets_with_nested_entity_lookup(queryResolver) {
 
     const query = {
         get: {
