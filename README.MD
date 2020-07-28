@@ -8,6 +8,10 @@ Example [Star Wars data is courtesy of Kaggle](https://www.kaggle.com/jsphyg/sta
 
 You need [Node.js](https://nodejs.org/en/) installed to run this example code.
 
+Any problems? Please log an issue on this repo.
+
+Love this? Please [star the repo](https://github.com/miniql/miniql) and [follow the developer on Twitter](https://twitter.com/ashleydavis75).
+
 ## Repo contents
 
 ```
@@ -41,3 +45,4 @@ A bunch of example queries will run and results are displayed in the terminal.
 
 Please read `index.js` to see each example query.
 
+Don't forget to [star the repo](https://github.com/miniql/miniql) and [follow the developer on Twitter](https://twitter.com/ashleydavis75).
