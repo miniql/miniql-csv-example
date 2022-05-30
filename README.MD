@@ -45,4 +45,4 @@ A bunch of example queries will run and results are displayed in the terminal.
 
 Please read `index.js` to see each example query.
 
-Don't forget to [star the repo](https://github.com/miniql/miniql) and [follow the developer on Twitter](https://twitter.com/ashleydavis75).
+Don't forget to [star the repo](https://github.com/miniql/miniql) and [follow the developer on Twitter](https://twitter.com/codecapers).
